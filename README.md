@@ -53,7 +53,8 @@
 | Specialize & Create Blog | Specialize in one field (e.g. Computer Vision, NLP, etc.). Look at requirements in corresponding job descriptions and learn those skills. Tip: Create a blog and share tutorials and what you have learned! |
 | Books | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) |
 
-
+## Other Roadmaps
+1. [roadmap.sh - AI and Data Scientist Roadmap (2024)](https://roadmap.sh/ai-data-scientist)
 
 # Rankings & Reviewes 
 
