@@ -1,5 +1,8 @@
 # What to learn in order
 
+## Personalized Roadmap
+Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforcement Learning, Linear Algebra, Optimization, Calculus, Statistics, and Probability. This site shows how concepts from all of these courses relates to each other. You just set a goal for learning and it offers you a course to learn that thing in quickest way possible. [click here](https://maps.joindeltaacademy.com/)
+
 ## Giles McMullen-Klein's Roadmap
 **Giles McMullen-Klein**: [youtube channel](https://www.youtube.com/@gilesmcmullen)
 | **Giles McMullen-Klein's Roadmap** |
@@ -53,8 +56,11 @@
 | Specialize & Create Blog | Specialize in one field (e.g. Computer Vision, NLP, etc.). Look at requirements in corresponding job descriptions and learn those skills. Tip: Create a blog and share tutorials and what you have learned! |
 | Books | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) |
 
+
 ## Other Roadmaps
 1. [roadmap.sh - AI and Data Scientist Roadmap (2024)](https://roadmap.sh/ai-data-scientist)
+2. [rentry.org ML roadmap](https://rentry.org/machine-learning-roadmap)
+3. [Daniel Bourke ML roadmap (2020)](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 
 # Rankings & Reviewes 
 
