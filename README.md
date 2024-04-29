@@ -5,22 +5,22 @@ Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforce
 
 ## Giles McMullen-Klein's Roadmap
 **Giles McMullen-Klein**: [youtube channel](https://www.youtube.com/@gilesmcmullen)
-| **Giles McMullen-Klein's Roadmap** |
-|:---:|
-| [Python and Jupyter](https://opentechschool.github.io/python-data-intro/core/recap.html) |
-| [Kaggle Learning](https://www.kaggle.com/learn) |
-| [Google Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) |
-| [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) |
-| [Web](https://machinelearningmastery.com/start-here/) & [Book](https://machinelearningmastery.com/products/): Machine Learning Mastery, [dl books](https://libgen.rs/search.php?req=Jason+Brownlee&open=0&res=50&view=simple&phrase=1&column=author) |
-| Youtube Channel: [Prof Ghrist Math](https://www.youtube.com/@prof-g/playlists) |
-| Book: [Mathematics for Machine Learning](https://mml-book.github.io/) |
-| [web](https://www.probabilitycourse.com/chapter1/1_1_0_what_is_probability.php) & [book](https://download.library.lol/main/3306000/74216f6e871ea6caeb4f2411fb23ff5f/Hossein%20Pishro-Nik%20-%20Introduction%20to%20Probability%2C%20Statistics%2C%20and%20Random%20Processes-Kappa%20Research%2C%20LLC%20%282014%29.pdf): Intro to Prabability, Statistics, and Random Processes |
-| [web](https://www.statisticsdonewrong.com/) & [Book](https://download.library.lol/main/1327000/a859cbca829a4d35aa8f19d1146fc440/Alex%20Reinhart%20-%20Statistics%20Done%20Wrong_%20The%20Woefully%20Complete%20Guide-No%20Starch%20Press%20%282015%29.pdf): Statistics Done Wrong |
-| [github](https://github.com/ageron/handson-ml3) & [book](https://library.lol/main/D6756726683D9AACB09B8B71A2E76319): Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow |
-| [Paper](https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf): Pedro Domingos - A few useful things to know about machine learning |
-| Question & Answer StackExchange: [Data Science](https://datascience.stackexchange.com/), [Cross Validated](https://stats.stackexchange.com/?tags=machine-learning) |
-| [PyTorch Tutorials](https://pytorch.org/tutorials/) |
-| [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) |
+| **Topic** | **Courses** |
+|:---:|:---:|
+| Python | [Python and Jupyter](https://opentechschool.github.io/python-data-intro/core/recap.html) |
+| Experience | [Kaggle Learning](https://www.kaggle.com/learn) |
+| TensorFlow | [Google Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) |
+| TensorFlow | [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) |
+| ML | [Web](https://machinelearningmastery.com/start-here/) & [Book](https://machinelearningmastery.com/products/): Machine Learning Mastery, [dl books](https://libgen.rs/search.php?req=Jason+Brownlee&open=0&res=50&view=simple&phrase=1&column=author) |
+| Math | Youtube Channel: [Prof Ghrist Math](https://www.youtube.com/@prof-g/playlists) |
+| Math | Book: [Mathematics for Machine Learning](https://mml-book.github.io/) |
+| Probability & Statistics | [web](https://www.probabilitycourse.com/chapter1/1_1_0_what_is_probability.php) & [book](https://download.library.lol/main/3306000/74216f6e871ea6caeb4f2411fb23ff5f/Hossein%20Pishro-Nik%20-%20Introduction%20to%20Probability%2C%20Statistics%2C%20and%20Random%20Processes-Kappa%20Research%2C%20LLC%20%282014%29.pdf): Intro to Prabability, Statistics, and Random Processes |
+| Statistics | [web](https://www.statisticsdonewrong.com/) & [Book](https://download.library.lol/main/1327000/a859cbca829a4d35aa8f19d1146fc440/Alex%20Reinhart%20-%20Statistics%20Done%20Wrong_%20The%20Woefully%20Complete%20Guide-No%20Starch%20Press%20%282015%29.pdf): Statistics Done Wrong |
+| ML | [github](https://github.com/ageron/handson-ml3) & [book](https://library.lol/main/D6756726683D9AACB09B8B71A2E76319): Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow |
+| Paper | [Paper](https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf): Pedro Domingos - A few useful things to know about machine learning |
+| Q&A | Question & Answer StackExchange: [Data Science](https://datascience.stackexchange.com/), [Cross Validated](https://stats.stackexchange.com/?tags=machine-learning) |
+| Pytorch | [PyTorch Tutorials](https://pytorch.org/tutorials/) |
+| Scikit-learn | [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) |
 
 
 ## Kooshiar's Roadmap
@@ -57,7 +57,7 @@ Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforce
 | Books | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) |
 
 
-## Marcel DeSutter's Roadmap (a redit user) + some of my recoms
+## Marcel DeSutter's Roadmap (a reddit user) + some of my recoms
 | **Steps** | **Course(s)** |
 |:---------:|:----------------:|
 | Math: Get general intuition | 3blue1brown: [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), Khan Academy: [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) |
