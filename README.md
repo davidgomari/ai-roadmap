@@ -64,6 +64,9 @@ This is the order that he gave, but I think the learning order does not match pe
 
 
 ## 5. Marcel DeSutter's Roadmap (a reddit user) + some of my recoms
+
+you might thinkg some of these courses are old, but they worth it.
+
 | **Steps** | **Course(s)** |
 |:---------:|:----------------:|
 | Math: Get general intuition | 3blue1brown: [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), Khan Academy: [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) |
