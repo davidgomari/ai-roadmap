@@ -57,10 +57,27 @@ Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforce
 | Books | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) |
 
 
+## Marcel DeSutter's Roadmap (a redit user) + some of my recoms
+| **Steps** | **Course(s)** |
+|:---------:|:----------------:|
+| Math: Get general intuition | 3blue1brown: [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), Khan Academy: [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) |
+| Probability Theory | Choose one of these 3 courses: MIT 6-041sc (2013) Probabilistic Systems Analysis And Applied Probability: [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe), [course page](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) - MIT 6-012 (2018) Introduction To Probability: [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6), [course page](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/), Stanford CS109 (2022) Introduction to Probability for Computer Scientists: [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg), [course page](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/) |
+| Linear Algebra | MIT 18.06 (2005) Linear Algebra: [youtube](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C), [course page](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) |
+| Calculus | [Calculus with Dr. Marchese: I, II, III](https://www.youtube.com/user/amarchese22/playlists) |
+| Connect all the previous concepts together | 18.065 (2018) Matrix Methods In Data Analysis, Signal Processing, And Machine Learning: [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k), [course page](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) |
+| Machine learning basics | Andrew NG's courses on coursera: [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), [Tensorflow in Practice Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+| Machine Learning | Stanford CS229 ML: [Youtube 2008 classic ml](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599), [Youtube 2018 updated with new topics](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU), and [course page](https://cs229.stanford.edu/syllabus-autumn2018.html) - CORNELL CS4780 ML for Intelligent Systems: [youtube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS), [course page](https://www.cs.cornell.edu/courses/cs4780/2024sp/) |
+| Python | [Corey Schafer Youtube Playlists](https://www.youtube.com/user/schafer5/playlists) |
+| Programming | Book 1: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) and Book 2: [ Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (3rd edition)](https://github.com/ageron/handson-ml3) |
+
+
 ## Other Roadmaps
 1. [roadmap.sh - AI and Data Scientist Roadmap (2024)](https://roadmap.sh/ai-data-scientist)
 2. [rentry.org ML roadmap](https://rentry.org/machine-learning-roadmap)
 3. [Daniel Bourke ML roadmap (2020)](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+4. [Marcel DeSutter's other roadmap (2021)](https://www.reddit.com/r/learnmachinelearning/comments/qlpcl8/comment/hj5mx9h/)
+
+
 
 # Rankings & Reviewes 
 
