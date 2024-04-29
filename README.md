@@ -1,10 +1,16 @@
 # What to learn in order
 
-## Personalized Roadmap
-Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforcement Learning, Linear Algebra, Optimization, Calculus, Statistics, and Probability. This site shows how concepts from all of these courses relates to each other. You just set a goal for learning and it offers you a course to learn that thing in quickest way possible. [click here](https://maps.joindeltaacademy.com/)
+## 1. Personalized Roadmap
 
-## Giles McMullen-Klein's Roadmap
+Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforcement Learning, Linear Algebra, Optimization, Calculus, Statistics, and Probability. This site shows how concepts from all of these courses relates to each other. You just set a goal for learning and it offers you a course to learn that thing in quickest way possible.
+[click here](https://maps.joindeltaacademy.com/)
+
+## 2. Giles McMullen-Klein's Roadmap
+
+This is the order that he gave, but I think the learning order does not match perfectly. In my opinion, you should gain some intuition in mathematics and machine learning before diving into TensorFlow
+
 **Giles McMullen-Klein**: [youtube channel](https://www.youtube.com/@gilesmcmullen)
+
 | **Topic** | **Courses** |
 |:---:|:---:|
 | Python | [Python and Jupyter](https://opentechschool.github.io/python-data-intro/core/recap.html) |
@@ -23,7 +29,7 @@ Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforce
 | Scikit-learn | [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) |
 
 
-## Kooshiar's Roadmap
+## 3. Kooshiar's Roadmap
 **Kooshiar**: [youtube channel](https://www.youtube.com/@Kooshiar)
 | **Topic** | **Courses** |
 |:---:|:---:|
@@ -44,7 +50,7 @@ Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforce
 | Useful Tools | [Kaggle Competitions](https://www.kaggle.com/competitions), [Google: Free Jupyter Notebook](https://colab.research.google.com/), and [Hugging Face: Model Repo](https://huggingface.co/models) |
 
 
-## ML Study Guide (from AssemblyAI)
+## 4. ML Study Guide (from AssemblyAI)
 | **Topic** | **Courses** |
 |:---:|:---:|
 | Math | Khan Academy: [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus), [Differential Equations](https://www.khanacademy.org/math/differential-equations), [Linear Algebra](https://www.khanacademy.org/math/linear-algebra), [Statistics Probability](https://www.khanacademy.org/math/statistics-probability), and 3Blue1Brown: [Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/) |
@@ -57,7 +63,7 @@ Get personalized roadmap for learning Machine Learning, Deep Learning, Reinforce
 | Books | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) |
 
 
-## Marcel DeSutter's Roadmap (a reddit user) + some of my recoms
+## 5. Marcel DeSutter's Roadmap (a reddit user) + some of my recoms
 | **Steps** | **Course(s)** |
 |:---------:|:----------------:|
 | Math: Get general intuition | 3blue1brown: [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), Khan Academy: [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) |
